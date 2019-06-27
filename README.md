@@ -1,4 +1,5 @@
 # educhain
+团队成员：刘鹏，潘仲秋，陈慧妮，马宁。
 项目已上线https://rammsteinlp.cn/educhain/login.html
 服务器端已配置好私有链环境。
 服务器后台采用SSM框架搭建，前台使用的是bootstrap，js，css，html。前台后使用ajax进行数据交互。
